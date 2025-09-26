@@ -20,11 +20,11 @@ It helps IT admins streamline disabling accounts, resetting passwords, and manag
 ![Login Screen](https://github.com/nathanielolejr/AD_OffBoard/blob/main/adoffboard.png)
 
 ### 🖥️ Main Dashboard
-![Main Dashboard](https://raw.githubusercontent.com/YOURUSERNAME/ADOffboard/main/docs/dashboard.png)
+![Main Form](https://github.com/nathanielolejr/AD_OffBoard/blob/main/adoffboard1.png)
 
 ---
 
 ## ⚙️ Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/YOURUSERNAME/ADOffboard.git
+   git clone https://github.com/nathanielolejr/AD_OffBoard.git
