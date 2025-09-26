@@ -17,7 +17,7 @@ It helps IT admins streamline disabling accounts, resetting passwords, and manag
 ## 📸 Screenshots
 
 ### 🔐 Login Screen
-![Login Screen](https://raw.githubusercontent.com/YOURUSERNAME/ADOffboard/main/docs/login.png)
+![Login Screen](https://github.com/nathanielolejr/AD_OffBoard/blob/main/adoffboard.png)
 
 ### 🖥️ Main Dashboard
 ![Main Dashboard](https://raw.githubusercontent.com/YOURUSERNAME/ADOffboard/main/docs/dashboard.png)
