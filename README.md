@@ -29,7 +29,7 @@ It helps IT admins streamline disabling accounts, resetting passwords, and manag
    ```bash
    git clone https://github.com/nathanielolejr/AD_OffBoard.git
 2. Open the project in Visual Studio.
-- Update the domain placeholder in Main.cs to match your environment. n/
+- Update the domain placeholder in Main.cs to match your environment.
 - Build and run.
 
 3. Usage
